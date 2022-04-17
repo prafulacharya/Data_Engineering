@@ -53,6 +53,12 @@ Group By
 Use of Case When Statements 
 Window Functions
 
+NoSQL Databases :
+HBase
+DataStax Cassandra (Recommended)
+ElasticSearch
+MongoDB
+
 Basic Terminologies In BigData :
 What is BigData?
 5 V’s of BigData
@@ -113,11 +119,7 @@ Workflow Schedulers, Dependency Management :
 Apache Airflow
 Azkaban
 
-NoSQL Databases :
-HBase
-DataStax Cassandra (Recommended)
-ElasticSearch
-MongoDB
+
 
 Messaging Queue Frameworks :
 Apache KAFKA
