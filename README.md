@@ -59,6 +59,19 @@ DataStax Cassandra (Recommended)
 ElasticSearch
 MongoDB
 
+Data Exploration Libraries :
+Pandas 
+NumPy
+
+Data Warehousing Concepts:
+OLAP vs OLTP
+Dimension Tables
+Fact Tables
+Star Schema
+Snowflake Schema
+Warehouse Designing Questions
+Many more topics
+
 Basic Terminologies In BigData :
 What is BigData?
 5 V’s of BigData
@@ -77,19 +90,6 @@ Type of Data
 Structured
 Unstructured
 Semi-structured
-
-Data Exploration Libraries :
-Pandas 
-NumPy
-
-Data Warehousing Concepts:
-OLAP vs OLTP
-Dimension Tables
-Fact Tables
-Star Schema
-Snowflake Schema
-Warehouse Designing Questions
-Many more topics
 
 BigData Frameworks :
 Apache Hadoop (Architecture Understanding Most Imp)
